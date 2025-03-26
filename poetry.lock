@@ -344,14 +344,14 @@ files = [
 
 [[package]]
 name = "minlog"
-version = "0.5.2"
+version = "0.6.0"
 description = "a neat and simple minimalistic logging library for python"
 optional = false
 python-versions = "<4.0,>=3.7"
 groups = ["main"]
 files = [
-    {file = "minlog-0.5.2-py3-none-any.whl", hash = "sha256:89d017f98b452b3ba2df8cbfc5d4d4a19ade65fd54f22351a20ad1e66adefae9"},
-    {file = "minlog-0.5.2.tar.gz", hash = "sha256:57e205a64b578aeb7692d81a64ee943e19de8e6954310439123d6e86ada22ee2"},
+    {file = "minlog-0.6.0-py3-none-any.whl", hash = "sha256:40377c2291c8efab16de1f53960ecabbd909c0f4b52911f4912a95e30a7e1abb"},
+    {file = "minlog-0.6.0.tar.gz", hash = "sha256:4c8a956abb2d5e788d19b5d8810c40d991041bf2d241d0f5b7064199ced9bd2f"},
 ]
 
 [package.dependencies]
@@ -730,4 +730,4 @@ standard = ["colorama (>=0.4) ; sys_platform == \"win32\"", "httptools (>=0.6.3)
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.10,<4.0"
-content-hash = "86687a2ae7b14ece427d834bfef626c3d6d491e7e80da3c288011c4a77678756"
+content-hash = "d36836fb7de57639c3d9a7315970b5c4cde3df985036ccc913eee78cc981fc40"
